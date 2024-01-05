@@ -1,4 +1,5 @@
 1. GEREKSİNİMLER
+ 
 • Her bir ilaç kendisine verilen benzersiz bir numara ile tanımlanmaktadır. Ayrıca ilaç
 kodu, ilaçların adı, etken maddesi, ATC sınıflaması, reçete durumu, liste fiyatı ve kullanma
 talimatı verileri de tutulacaktır. Her bir ilaç kodu benzersiz olacaktır.
